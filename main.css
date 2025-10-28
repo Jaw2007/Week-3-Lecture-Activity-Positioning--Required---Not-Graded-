@@ -1,4 +1,3 @@
-nav, main, aside{ 
-float: left;
-width: 100px;
-}
+main {float: left; width: 100;}
+aside {float: left; margin: 10px;}
+nav {float: left; width: 100;}
