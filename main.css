@@ -1,2 +1,4 @@
-nav, main, aside 
-{float: left;}
+nav, main, aside{ 
+float: left;
+width: 10px;
+}
